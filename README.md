@@ -4,5 +4,5 @@ In early 2024, a new public Git repository was launched to facilitate its sharin
 
 https://github.com/a-dato/FMX-GRID  
 
-In that Git repository, my commits were made using the names "Alex" and "AlexAlit." 
+In that new Git repository, my commits were made using the names "Alex" and "AlexAlit." 
 
