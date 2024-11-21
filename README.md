@@ -1,4 +1,4 @@
-Please see the actual and official version in A-Dato public repository.
+Please see the actual and official version in A-Dato public repository below.
 This component has been developed and maintained primarily by me (80%) over several years in a private company repository. 
 
 Main folders: 
