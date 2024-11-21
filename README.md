@@ -1,5 +1,8 @@
 Please see the actual and official version in A-Dato public repository.
-This component has been developed and maintained primarily by me over several years in a private company repository. 
+This component has been developed and maintained primarily by me (80%) over several years in a private company repository. 
+Main folders: 
+\fmx-grid\grid_fmx\Scrollable\ 
+\fmx-grid\grid_fmx\Tree\
 
 In early 2024, a new public Git repository was launched to facilitate its sharing and ensure ongoing updates.
 
